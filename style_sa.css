@@ -1,0 +1,17 @@
+#pesquisa_display{
+    border:solid grey 1px;
+    border-radius:5px;
+    display:inline-block;
+    margin:10px;
+    padding: 10px;
+}
+#loguin_display{
+    border:solid grey 1px;
+    border-radius:5px;
+    display:inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+#alter{
+    display: none;
+}
